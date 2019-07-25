@@ -11,3 +11,36 @@ http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&re
 
 ## 目录
 
+1_cnn_mnist
+```
+cnn 识别手写数字
+```
+
+2_cnn_cifar_10
+```
+cnn 完成图像10分类
+```
+
+3_rnn_mnist
+```
+rnn 识别手写数字
+```
+
+4_rnn_time_series_predict
+```
+rnn 时间序列预测
+```
+
+5_cnn_cat_dog_recognition
+```
+cnn 猫狗识别
+```
+
+6_alexnet_test
+```
+alexnet
+```
+
+
+
+
