@@ -1,0 +1,7 @@
+C:\Users\admin>f:
+
+F:\>cd F:\pycharm\admin\tensorboard_test\tensorboard
+
+F:\pycharm\admin\tensorboard_test\tensorboard>tensorboard --logdir=./test1
+
+在浏览器下访问 http://localhost:6006
