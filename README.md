@@ -46,5 +46,7 @@ alexnet
 tensorboard
 ```
 
+8_手写中文识别
 
+CNN在线识别手写中文 https://github.com/taosir/cnn_handwritten_chinese_recognition
 
