@@ -54,10 +54,10 @@ CNN在线识别手写中文 https://github.com/taosir/cnn_handwritten_chinese_re
 
 https://github.com/search?q=faster+rcnn
 
-https://github.com/smallcorgi/Faster-RCNN_TF tensorflow版
+tensorflow版 https://github.com/smallcorgi/Faster-RCNN_TF
 
 https://github.com/search?q=faster+rcnn+windows
 
-https://github.com/dBeker/Faster-RCNN-TensorFlow-Python3 windows下
+windows下 https://github.com/dBeker/Faster-RCNN-TensorFlow-Python3
 
 
